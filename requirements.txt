@@ -1,0 +1,12 @@
+plotly.express
+aiohttp
+BeautifulSoup4
+colorama
+requests
+numpy
+pandas
+scipy
+scikit-learn==1.6.1
+numba
+streamlit
+playwright
